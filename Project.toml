@@ -1,0 +1,21 @@
+name = "QLever_jll"
+uuid = "6a1e3932-4b28-5fd5-abac-1dd504afb24e"
+version = "0.0.1+0"
+
+[deps]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libuuid_jll = "38a345b3-de98-5d2b-a5d3-14cd9215e700"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+ICU_jll = "a51ab1cf-af8e-5615-a023-bc2c838bba6b"
+jemalloc_jll = "454a8cc1-5e0e-5123-92d5-09b094f0e876"
+Zstd_jll = "3161d3a3-bdf6-5164-811a-617609db77b4"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+ICU_jll = "~69.1"
+boost_jll = "~1.76.0"
